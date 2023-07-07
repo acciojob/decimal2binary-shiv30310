@@ -1,16 +1,5 @@
-function threeSum(array, target){
-    let res = [];
-
-    let temp = num
-    while(temp > 0){
-        if(temp%2 === 0){
-            res.push(0)
-        
-        }else {
-            res.push(1)
-        }
-        temp = parseInt(temp/2)
-    }
-    return res.reverse().join("")
+function decimalToBinary(num) {
+  // Write your code here
 }
-module.exports = threeSum;
+
+window.decimalToBinary = decimalToBinary;
